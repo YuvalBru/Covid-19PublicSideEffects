@@ -1,2 +1,4 @@
-# Covid-19PublicSideEffects
-We take a public Israeli Covid-19 Dataset which provides side effects and their diagnosis and perform both supervised learning classification of diagnosis and unsupervised learning techniques on the dataset.
+# Covid - 19 Side Effects Diagnosis Supervised Learning Classification and Unsupervised Learning analysis.
+In this project as a part of the course Advanced Topics In Machine Learning our lecturer is Dr. Chen Hajaj. We take an Israeli Public dataset from https://data.gov.il/dataset/vacseffect which describes side effects people experienced as a result of the covid-19 vaccine or booster and their diagnosis which was provided by doctors according to the answers of the questionnaire the people provided.
+
+We continue to perform classification using advanced machine learning methods such as boosting and neural networks in order to classify wether or not a certain person has a diagnosis or doesn't have a diagnosis. We then continue to provide analysis on the data using DBSCAN and use methods like PCA to help us perform said analysis. 
